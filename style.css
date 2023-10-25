@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  min-height: 100%;
+  background: #cedebd;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  background-color: #9eb384;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
