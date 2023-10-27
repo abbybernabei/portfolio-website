@@ -28,7 +28,7 @@ p {
 }
 
 .container {
-  border: 5px solid yellow;
+  /* border: 5px solid yellow; */
   height: 100%;
   width: 100%;
   margin: 100px auto;
@@ -59,7 +59,7 @@ h2 {
 }
 
 .define {
-  border: 5px solid pink;
+  /* border: 5px solid pink; */
   position: relative;
   top: -60px;
 }
