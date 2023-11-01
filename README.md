@@ -78,15 +78,15 @@
 
 ## About The Project
 
-[![Personal Website Screen Shot][personal website-screenshot]](images/Bernabei_personal-website-screenshot.png)
+[![Personal Website screenshot][product-screenshot]](images/Bernabei_personal-website-screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][index.html]][html-url]
-- [![React][styles.css]][css-url]
-- [![Vue][javascript.js]][js-url]
+- HTML
+- CSS
+- JavaScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
